@@ -1,7 +1,7 @@
 {
-  "name": "mocha-bamboo-reporter",
-  "version": "1.1.0",
-  "description": "A mocha reporter to allow Atlassian Bamboo to parse results",
+  "name": "@bhavishraj/mocha-bamboo-reporter-append",
+  "version": "1.1.1",
+  "description": "A mocha reporter to allow Atlassian Bamboo to parse and append results",
   "keywords": [
     "mocha",
     "reporter",
